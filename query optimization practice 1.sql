@@ -11,3 +11,9 @@ SELECT DISTINCT(rating) FROM film ORDER BY rating;
 CREATE INDEX rating_idx ON film (rating);
 
 SELECT COUNT(*)FROM film WHERE rating IS NULL;
+
+SHOW KEYS FROM film;
+
+DROP INDEX rating_idx ON film;
+
+SELECT * FROM film LIMIT 30;
