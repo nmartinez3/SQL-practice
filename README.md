@@ -1,3 +1,3 @@
 # SQL-practice
 
-Practicing SQL skills w/ MySQL. Nothing too crazy to see here.
+Just practicing some SQL. Working on querying tables and maintaining custom tables.
